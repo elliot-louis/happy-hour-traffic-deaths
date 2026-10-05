@@ -109,7 +109,7 @@ Other findings from the follow-up checks:
 
 ## How this was built
 
-I designed the research question, chose the natural experiments, sourced and checked the data, and reviewed every result. The code was written and run with Claude (Anthropic's AI assistant) under my direction, and I used an AI research tool to gather primary legal sources for the 1980s law dates. I treated AI output as something to verify, not trust: reviewing results led to two corrections that changed the paper (an overstated Illinois finding, and an inference method that produced too many false positives), and `code/audit.py` re-derives the key results independently.
+I designed the research question, chose the natural experiments, sourced and checked the data, and reviewed every result. The code was written in part by Claude (Anthropic's AI assistant) under my direction, and I used an AI research tool to gather primary legal sources for the 1980s law dates. I treated AI output as something to verify, not trust: reviewing results led to two corrections that changed the paper (an overstated Illinois finding, and an inference method that produced too many false positives), and `code/audit.py` re-derives the key results independently.
 
 ## Key references
 
