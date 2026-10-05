@@ -1,0 +1,7 @@
+state,outcome,pre_rmspe_x100,mean_post_gap_x100,first6_post_gap_x100,post_pre_rmspe_ratio,placebo_rank_p,n_placebos,donor_weights
+KS,ai_share,3.21,-3.324,-3.961,1.286,0.919,36,"IA 0.28, WV 0.27, SC 0.26, AR 0.10, UT 0.08"
+IL,ai_share,0.537,2.784,3.326,5.748,0.027,36,"MS 0.23, MA 0.15, LA 0.14, WA 0.12, SC 0.08, OH 0.07, NV 0.07, TN 0.06, PA 0.06"
+OK,ai_share,2.118,-1.255,-1.255,1.84,0.514,36,"ID 0.33, WA 0.14, MN 0.12, NE 0.12, FL 0.11, UT 0.10"
+KS,log_odds,15.243,-16.466,-20.121,1.37,0.838,36,"WV 0.28, IA 0.27, SC 0.27, AR 0.10, UT 0.07"
+IL,log_odds,2.371,14.039,16.43,6.494,0.027,36,"MS 0.23, MA 0.16, LA 0.15, WA 0.12, SC 0.08, OH 0.07, NV 0.07, TN 0.05, PA 0.05"
+OK,log_odds,10.581,-4.497,-4.497,1.747,0.568,36,"ID 0.31, FL 0.16, MN 0.13, WA 0.11, NE 0.10, MO 0.06, UT 0.06, MI 0.05"

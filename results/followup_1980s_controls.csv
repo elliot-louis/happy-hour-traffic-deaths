@@ -1,0 +1,22 @@
+spec,outcome,label,att,ci_lo,ci_hi,p,mde80
+"1983-95, drinking age only",ai_share,Impaired share (pp),0.516,-2.206,3.294,0.755,3.955
+"1983-95, drinking age only",log_odds,"Log odds, impaired vs. sober (x100)",2.438,-8.912,14.284,0.758,16.718
+"1983-95, drinking age only",ai_per_vmt,Log impaired deaths per mile (x100),3.315,-9.101,14.829,0.692,17.116
+"1983-95, drinking age only",sober_per_vmt,Log sober deaths per mile: placebo (x100),0.877,-6.658,8.062,0.931,10.725
+"1983-95, drinking age only",svn_share,Single-vehicle-night share (pp),-1.341,-3.562,0.349,0.108,2.814
+"1983-95, drinking age only",ddd_sober,"Evening-vs-night, sober deaths: placebo (x100)",17.633,4.294,33.661,0.009,20.695
+"1983-95, drinking age only",ddd_net,Net evening test (x100),-12.854,-33.486,6.316,0.23,29.206
+"+ seat belt, 65 mph, .08 BAC, income",ai_share,Impaired share (pp),0.791,-2.003,4.017,0.596,4.391
+"+ seat belt, 65 mph, .08 BAC, income",log_odds,"Log odds, impaired vs. sober (x100)",3.648,-8.405,17.127,0.533,18.246
+"+ seat belt, 65 mph, .08 BAC, income",ai_per_vmt,Log impaired deaths per mile (x100),1.96,-9.652,18.322,0.775,19.997
+"+ seat belt, 65 mph, .08 BAC, income",sober_per_vmt,Log sober deaths per mile: placebo (x100),-1.689,-9.2,7.381,0.735,11.878
+"+ seat belt, 65 mph, .08 BAC, income",svn_share,Single-vehicle-night share (pp),-1.208,-3.58,0.524,0.18,2.946
+"+ seat belt, 65 mph, .08 BAC, income",ddd_sober,"Evening-vs-night, sober deaths: placebo (x100)",21.828,7.931,38.121,0.002,21.548
+"+ seat belt, 65 mph, .08 BAC, income",ddd_net,Net evening test (x100),-21.616,-40.22,-0.646,0.043,28.117
+"+ same controls, drop Georgia",ai_share,Impaired share (pp),0.791,-1.969,3.937,0.559,4.279
+"+ same controls, drop Georgia",log_odds,"Log odds, impaired vs. sober (x100)",3.648,-8.107,17.552,0.511,18.409
+"+ same controls, drop Georgia",ai_per_vmt,Log impaired deaths per mile (x100),1.96,-9.776,18.444,0.73,19.988
+"+ same controls, drop Georgia",sober_per_vmt,Log sober deaths per mile: placebo (x100),-1.689,-9.368,7.221,0.74,11.941
+"+ same controls, drop Georgia",svn_share,Single-vehicle-night share (pp),-1.208,-3.527,0.555,0.182,2.925
+"+ same controls, drop Georgia",ddd_sober,"Evening-vs-night, sober deaths: placebo (x100)",21.828,7.553,37.828,0.002,21.566
+"+ same controls, drop Georgia",ddd_net,Net evening test (x100),-21.616,-39.675,-0.703,0.044,28.219

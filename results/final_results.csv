@@ -1,0 +1,17 @@
+design,outcome,label,att,ci95_lo,ci95_hi,ci90_lo,ci90_hi,p
+modern,ai_share,Impaired share of deaths (pp),-1.3894,-5.0663,3.0913,-4.4352,2.5906,0.7203
+modern,log_odds,Odds a death involved an impaired driver,-7.3102,-23.9903,14.4311,-21.2074,11.6181,0.6691
+modern,ai_per_cap,Impaired deaths per resident,-1.1108,-17.172,15.9101,-14.6651,13.9126,0.9986
+modern,ai_per_vmt,Impaired deaths per mile driven,1.4565,-17.5977,22.2952,-13.8657,19.4385,0.7103
+modern,ddd_net,Evening vs night (timing test),14.8942,-6.6873,34.0493,-3.5775,29.8615,0.1992
+modern,we_net,Weekday vs weekend evenings (timing test),26.5583,5.6012,44.7831,8.5695,40.0662,0.0092
+1980s,ai_share,Impaired share of deaths (pp),0.7807,-2.139,3.7498,-1.7304,3.2752,0.6423
+1980s,log_odds,Odds a death involved an impaired driver,3.5462,-8.7068,16.281,-6.7857,14.1345,0.6095
+1980s,ai_per_cap,Impaired deaths per resident,5.9529,-9.0817,16.8317,-7.0789,14.5174,0.5919
+1980s,ai_per_vmt,Impaired deaths per mile driven,3.5886,-9.3727,14.494,-7.8891,12.665,0.7131
+1980s,ddd_net,Evening vs night (timing test),-19.6217,-36.825,0.8441,-34.5535,-1.7226,0.062
+1980s,we_net,Weekday vs weekend evenings (timing test),-16.77,-35.4325,12.287,-31.2265,9.2825,0.3903
+pooled9,log_odds,Odds a death involved an impaired driver,4.8008,-6.378,14.419,-4.7735,12.5945,0.4835
+pooled9,ai_per_cap,Impaired deaths per resident,4.3389,-7.9512,12.7931,-6.2378,11.2342,0.6435
+pooled9,ai_per_vmt,Impaired deaths per mile driven,1.9069,-9.8339,10.7534,-8.2611,9.3537,0.9434
+pooled9,ai_share,Impaired share of deaths (pp),0.9836,-1.5616,3.2414,-1.2232,2.8475,0.5455

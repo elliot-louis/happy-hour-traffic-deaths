@@ -1,0 +1,13 @@
+# Raw NHTSA files (large; download instructions in README)
+data/raw/
+# Scratch space
+data/tmp/
+# Python / Node
+__pycache__/
+*.pyc
+.venv/
+code/report/node_modules/
+code/report/package-lock.json
+# Office lock files and OS clutter
+~$*
+.DS_Store

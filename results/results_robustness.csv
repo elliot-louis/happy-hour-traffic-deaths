@@ -1,0 +1,61 @@
+design,spec,outcome,label,att,ci_lo,ci_hi,p,placebo_mean,placebo_sd,mde80,baseline,n_treated,n_controls
+modern_repeals,excl. 2020-21,ai_share,Alcohol-impaired share of deaths (pp),-1.147,-4.516,3.062,0.809,-0.6,1.977,5.534,29.855,3,48
+modern_repeals,excl. 2020-21,log_odds,"Log odds, impaired vs. sober deaths (x100)",-6.139,-22.14,14.059,0.763,-2.872,9.542,26.718,-85.904,3,48
+modern_repeals,excl. 2020-21,svn_share,"Single-vehicle-night share, BAC-free (pp)",-0.995,-2.411,0.768,0.303,-0.142,0.822,2.301,23.346,3,48
+modern_repeals,excl. 2020-21,ddd_ai,"Time-of-day DDD, impaired deaths (x100)",12.75,-7.299,31.223,0.259,1.431,9.93,27.804,-114.509,3,48
+modern_repeals,excl. 2020-21,ddd_sober,"Time-of-day DDD, sober deaths: placebo (x100)",-5.521,-16.043,9.703,0.513,-1.52,6.508,18.224,21.128,3,48
+modern_repeals,excl. 2020-21,ddd_net,"Evening-vs-night alcohol odds ratio, net (x100)",18.264,-6.098,37.353,0.182,3.55,10.945,30.645,-135.637,3,48
+modern_repeals,fatality-weighted,ai_share,Alcohol-impaired share of deaths (pp),-0.81,-4.387,4.534,0.958,-0.931,2.309,6.466,29.855,3,48
+modern_repeals,fatality-weighted,log_odds,"Log odds, impaired vs. sober deaths (x100)",-4.178,-22.578,22.595,0.995,-4.119,11.32,31.696,-85.904,3,48
+modern_repeals,fatality-weighted,svn_share,"Single-vehicle-night share, BAC-free (pp)",-0.989,-2.627,0.487,0.17,0.148,0.825,2.31,23.346,3,48
+modern_repeals,fatality-weighted,ddd_ai,"Time-of-day DDD, impaired deaths (x100)",8.892,-10.024,23.565,0.388,1.324,8.525,23.871,-114.509,3,48
+modern_repeals,fatality-weighted,ddd_sober,"Time-of-day DDD, sober deaths: placebo (x100)",-2.732,-12.935,10.581,0.807,-1.29,5.983,16.753,21.128,3,48
+modern_repeals,fatality-weighted,ddd_net,"Evening-vs-night alcohol odds ratio, net (x100)",11.617,-10.883,26.761,0.354,2.355,9.8,27.439,-135.637,3,48
+modern_repeals,all post years,ai_share,Alcohol-impaired share of deaths (pp),-1.0,-4.976,3.524,0.82,-0.389,2.204,6.172,29.855,3,48
+modern_repeals,all post years,log_odds,"Log odds, impaired vs. sober deaths (x100)",-5.407,-24.845,17.546,0.793,-2.267,10.584,29.634,-85.904,3,48
+modern_repeals,all post years,svn_share,"Single-vehicle-night share, BAC-free (pp)",-0.843,-2.467,0.769,0.294,0.086,0.854,2.39,23.346,3,48
+modern_repeals,all post years,ddd_ai,"Time-of-day DDD, impaired deaths (x100)",9.496,-7.292,26.062,0.313,0.415,8.68,24.303,-114.509,3,48
+modern_repeals,all post years,ddd_sober,"Time-of-day DDD, sober deaths: placebo (x100)",-3.82,-13.795,8.736,0.645,-1.216,5.717,16.006,21.128,3,48
+modern_repeals,all post years,ddd_net,"Evening-vs-night alcohol odds ratio, net (x100)",13.308,-6.981,30.243,0.24,1.636,9.696,27.15,-135.637,3,48
+modern_repeals,state linear trends,ai_share,Alcohol-impaired share of deaths (pp),-1.056,-5.348,5.106,0.705,-0.336,2.398,6.713,29.855,3,48
+modern_repeals,state linear trends,log_odds,"Log odds, impaired vs. sober deaths (x100)",-5.363,-26.435,20.712,0.673,-1.405,11.303,31.649,-85.904,3,48
+modern_repeals,state linear trends,svn_share,"Single-vehicle-night share, BAC-free (pp)",-0.392,-2.406,1.489,0.697,0.025,1.0,2.8,23.346,3,48
+modern_repeals,state linear trends,ddd_ai,"Time-of-day DDD, impaired deaths (x100)",18.721,-7.332,39.047,0.163,1.676,12.002,33.607,-114.509,3,48
+modern_repeals,state linear trends,ddd_sober,"Time-of-day DDD, sober deaths: placebo (x100)",-8.43,-23.51,8.671,0.324,-0.148,8.276,23.171,21.128,3,48
+modern_repeals,state linear trends,ddd_net,"Evening-vs-night alcohol odds ratio, net (x100)",27.125,-2.212,51.489,0.067,1.712,13.591,38.055,-135.637,3,48
+modern_repeals,excl. 2024 (newest FARS year),ai_share,Alcohol-impaired share of deaths (pp),-1.932,-5.624,2.661,0.523,-0.559,2.126,5.953,29.855,3,48
+modern_repeals,excl. 2024 (newest FARS year),log_odds,"Log odds, impaired vs. sober deaths (x100)",-9.883,-27.48,12.201,0.507,-2.892,10.127,28.357,-85.904,3,48
+modern_repeals,excl. 2024 (newest FARS year),svn_share,"Single-vehicle-night share, BAC-free (pp)",-0.905,-2.51,0.752,0.251,0.057,0.821,2.298,23.346,3,48
+modern_repeals,excl. 2024 (newest FARS year),ddd_ai,"Time-of-day DDD, impaired deaths (x100)",10.256,-6.612,27.643,0.282,0.823,8.717,24.407,-114.509,3,48
+modern_repeals,excl. 2024 (newest FARS year),ddd_sober,"Time-of-day DDD, sober deaths: placebo (x100)",-5.203,-14.782,8.353,0.484,-1.167,5.925,16.59,21.128,3,48
+modern_repeals,excl. 2024 (newest FARS year),ddd_net,"Evening-vs-night alcohol odds ratio, net (x100)",15.449,-6.411,34.538,0.179,2.088,10.083,28.231,-135.637,3,48
+modern_repeals,KS + OK only (full repeals),ai_share,Alcohol-impaired share of deaths (pp),-2.096,-7.161,2.521,0.414,-0.016,2.466,6.904,28.159,2,48
+modern_repeals,KS + OK only (full repeals),log_odds,"Log odds, impaired vs. sober deaths (x100)",-11.252,-35.727,11.5,0.381,-0.366,11.947,33.453,-94.005,2,48
+modern_repeals,KS + OK only (full repeals),svn_share,"Single-vehicle-night share, BAC-free (pp)",-0.629,-2.585,1.588,0.551,-0.008,1.043,2.921,22.094,2,48
+modern_repeals,KS + OK only (full repeals),ddd_ai,"Time-of-day DDD, impaired deaths (x100)",8.114,-12.974,33.017,0.547,0.538,11.696,32.749,-101.972,2,48
+modern_repeals,KS + OK only (full repeals),ddd_sober,"Time-of-day DDD, sober deaths: placebo (x100)",-9.689,-23.721,7.096,0.226,-0.838,7.686,21.521,28.139,2,48
+modern_repeals,KS + OK only (full repeals),ddd_net,"Evening-vs-night alcohol odds ratio, net (x100)",17.795,-9.209,45.572,0.164,0.94,13.28,37.184,-130.111,2,48
+modern_repeals,timing placebo (5 yrs early),ai_share,Alcohol-impaired share of deaths (pp),-0.265,-3.148,3.356,0.863,-0.496,1.669,4.674,30.288,3,48
+modern_repeals,timing placebo (5 yrs early),log_odds,"Log odds, impaired vs. sober deaths (x100)",-1.442,-15.116,16.059,0.883,-2.338,8.06,22.568,-84.161,3,48
+modern_repeals,timing placebo (5 yrs early),svn_share,"Single-vehicle-night share, BAC-free (pp)",0.053,-1.363,1.985,0.843,-0.15,0.867,2.427,23.583,3,48
+modern_repeals,timing placebo (5 yrs early),ddd_ai,"Time-of-day DDD, impaired deaths (x100)",-5.718,-22.91,9.41,0.539,-0.197,8.326,23.314,-120.279,3,48
+modern_repeals,timing placebo (5 yrs early),ddd_sober,"Time-of-day DDD, sober deaths: placebo (x100)",-3.919,-16.221,9.48,0.598,-0.662,6.372,17.84,28.563,3,48
+modern_repeals,timing placebo (5 yrs early),ddd_net,"Evening-vs-night alcohol odds ratio, net (x100)",-1.792,-23.938,19.342,0.829,0.468,10.632,29.769,-148.842,3,48
+adoption_1980s,incl. partial-restriction states as controls,ai_share,Alcohol-impaired share of deaths (pp),1.229,-1.717,4.517,0.486,0.028,1.608,4.503,44.453,6,38
+adoption_1980s,incl. partial-restriction states as controls,log_odds,"Log odds, impaired vs. sober deaths (x100)",5.258,-7.702,19.283,0.466,0.008,6.918,19.37,-22.404,6,38
+adoption_1980s,incl. partial-restriction states as controls,svn_share,"Single-vehicle-night share, BAC-free (pp)",-0.532,-2.511,1.497,0.611,0.004,1.049,2.938,29.218,6,38
+adoption_1980s,incl. partial-restriction states as controls,ddd_ai,"Time-of-day DDD, impaired deaths (x100)",-1.278,-14.862,13.479,0.993,-0.986,7.37,20.637,-113.387,6,38
+adoption_1980s,incl. partial-restriction states as controls,ddd_sober,"Time-of-day DDD, sober deaths: placebo (x100)",17.835,4.23,30.882,0.008,-0.113,6.952,19.466,5.033,6,38
+adoption_1980s,incl. partial-restriction states as controls,ddd_net,"Evening-vs-night alcohol odds ratio, net (x100)",-19.113,-35.746,1.158,0.068,-0.902,9.703,27.167,-118.42,6,38
+adoption_1980s,no MLDA covariate,ai_share,Alcohol-impaired share of deaths (pp),0.68,-2.201,3.623,0.678,0.023,1.495,4.187,44.453,6,29
+adoption_1980s,no MLDA covariate,log_odds,"Log odds, impaired vs. sober deaths (x100)",3.047,-8.993,15.165,0.689,0.359,6.157,17.241,-22.404,6,29
+adoption_1980s,no MLDA covariate,svn_share,"Single-vehicle-night share, BAC-free (pp)",-1.127,-2.937,0.447,0.159,0.11,0.884,2.476,29.218,6,29
+adoption_1980s,no MLDA covariate,ddd_ai,"Time-of-day DDD, impaired deaths (x100)",0.091,-11.618,14.051,0.776,-1.636,6.638,18.586,-113.387,6,29
+adoption_1980s,no MLDA covariate,ddd_sober,"Time-of-day DDD, sober deaths: placebo (x100)",19.246,6.584,33.572,0.001,-0.273,6.874,19.247,5.033,6,29
+adoption_1980s,no MLDA covariate,ddd_net,"Evening-vs-night alcohol odds ratio, net (x100)",-19.156,-36.156,1.364,0.072,-1.38,9.836,27.54,-118.42,6,29
+adoption_1980s,fatality-weighted,ai_share,Alcohol-impaired share of deaths (pp),0.157,-2.674,3.487,0.848,-0.181,1.594,4.463,44.453,6,29
+adoption_1980s,fatality-weighted,log_odds,"Log odds, impaired vs. sober deaths (x100)",1.146,-11.393,16.198,0.793,-0.918,7.07,19.796,-22.404,6,29
+adoption_1980s,fatality-weighted,svn_share,"Single-vehicle-night share, BAC-free (pp)",-1.126,-2.93,0.147,0.093,0.016,0.759,2.126,29.218,6,29
+adoption_1980s,fatality-weighted,ddd_ai,"Time-of-day DDD, impaired deaths (x100)",0.295,-11.052,12.112,0.827,-0.791,5.98,16.743,-113.387,6,29
+adoption_1980s,fatality-weighted,ddd_sober,"Time-of-day DDD, sober deaths: placebo (x100)",11.017,1.412,21.957,0.028,-0.713,5.35,14.981,5.033,6,29
+adoption_1980s,fatality-weighted,ddd_net,"Evening-vs-night alcohol odds ratio, net (x100)",-10.722,-23.973,2.167,0.111,0.09,6.764,18.939,-118.42,6,29

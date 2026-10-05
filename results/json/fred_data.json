@@ -1,0 +1,340 @@
+{
+ "rows": [
+  {
+   "design": "modern_repeals",
+   "spec": "+ unemployment",
+   "outcome": "ai_share",
+   "label": "Impaired share (pp)",
+   "att": -1.4010444873,
+   "ci_lo": -5.0334846647,
+   "ci_hi": 3.0010682297,
+   "p": 0.7126574685,
+   "mde80": 5.8110015229
+  },
+  {
+   "design": "modern_repeals",
+   "spec": "+ unemployment",
+   "outcome": "log_odds",
+   "label": "Log odds, impaired vs sober (x100)",
+   "att": -7.3578652465,
+   "ci_lo": -24.57404666,
+   "ci_hi": 14.7111502263,
+   "p": 0.6734653069,
+   "mde80": 28.3284435862
+  },
+  {
+   "design": "modern_repeals",
+   "spec": "+ unemployment",
+   "outcome": "ddd_net",
+   "label": "Net evening test (x100)",
+   "att": 14.9397259182,
+   "ci_lo": -7.2918137247,
+   "ci_hi": 34.0804008354,
+   "p": 0.2067586483,
+   "mde80": 28.781570994
+  },
+  {
+   "design": "modern_repeals",
+   "spec": "+ unemployment, vehicle-miles, rural share",
+   "outcome": "ai_share",
+   "label": "Impaired share (pp)",
+   "att": -1.3185691264,
+   "ci_lo": -5.0851387735,
+   "ci_hi": 3.2462286312,
+   "p": 0.7398520296,
+   "mde80": 5.9309738025
+  },
+  {
+   "design": "modern_repeals",
+   "spec": "+ unemployment, vehicle-miles, rural share",
+   "outcome": "log_odds",
+   "label": "Log odds, impaired vs sober (x100)",
+   "att": -6.909918763,
+   "ci_lo": -24.0656872475,
+   "ci_hi": 15.3406386916,
+   "p": 0.7310537892,
+   "mde80": 28.4762711558
+  },
+  {
+   "design": "modern_repeals",
+   "spec": "per capita",
+   "outcome": "ai_per_cap",
+   "label": "Impaired deaths per 100k residents (log x100)",
+   "att": -1.1107510282,
+   "ci_lo": -17.3401084595,
+   "ci_hi": 15.8923383253,
+   "p": 0.9966006799,
+   "mde80": 24.119657822
+  },
+  {
+   "design": "modern_repeals",
+   "spec": "per capita",
+   "outcome": "sober_per_cap",
+   "label": "Sober deaths per 100k: placebo (log x100)",
+   "att": 6.1994407781,
+   "ci_lo": -4.2310239749,
+   "ci_hi": 15.6790240201,
+   "p": 0.3979204159,
+   "mde80": 14.3727780486
+  },
+  {
+   "design": "modern_repeals",
+   "spec": "per capita",
+   "outcome": "fat_per_cap",
+   "label": "All deaths per 100k residents (log x100)",
+   "att": 4.3483555385,
+   "ci_lo": -5.1702437046,
+   "ci_hi": 12.6909121282,
+   "p": 0.4871025795,
+   "mde80": 12.3663860721
+  },
+  {
+   "design": "modern_repeals",
+   "spec": "per capita + unemployment",
+   "outcome": "ai_per_cap",
+   "label": "Impaired deaths per 100k residents (log x100)",
+   "att": -0.8746774011,
+   "ci_lo": -16.7694609964,
+   "ci_hi": 16.0903147216,
+   "p": 0.9734053189,
+   "mde80": 23.753261425
+  },
+  {
+   "design": "adoption_1980s",
+   "spec": "+ unemployment",
+   "outcome": "ai_share",
+   "label": "Impaired share (pp)",
+   "att": 0.6660452313,
+   "ci_lo": -2.3341952932,
+   "ci_hi": 3.6507679746,
+   "p": 0.6694661068,
+   "mde80": 4.3036535386
+  },
+  {
+   "design": "adoption_1980s",
+   "spec": "+ unemployment",
+   "outcome": "log_odds",
+   "label": "Log odds, impaired vs sober (x100)",
+   "att": 2.9448326297,
+   "ci_lo": -9.5749431555,
+   "ci_hi": 15.6592336321,
+   "p": 0.6602679464,
+   "mde80": 18.3788389074
+  },
+  {
+   "design": "adoption_1980s",
+   "spec": "per capita",
+   "outcome": "ai_per_cap",
+   "label": "Impaired deaths per 100k residents (log x100)",
+   "att": 5.9529476566,
+   "ci_lo": -9.0490127716,
+   "ci_hi": 16.9380298001,
+   "p": 0.599080184,
+   "mde80": 18.5621208251
+  },
+  {
+   "design": "adoption_1980s",
+   "spec": "per capita",
+   "outcome": "sober_per_cap",
+   "label": "Sober deaths per 100k: placebo (log x100)",
+   "att": 2.4067634335,
+   "ci_lo": -7.7138945105,
+   "ci_hi": 8.9801674935,
+   "p": 0.9870025995,
+   "mde80": 12.1947209905
+  },
+  {
+   "design": "adoption_1980s",
+   "spec": "per capita",
+   "outcome": "fat_per_cap",
+   "label": "All deaths per 100k residents (log x100)",
+   "att": 3.7843854428,
+   "ci_lo": -6.5285930121,
+   "ci_hi": 10.2242536665,
+   "p": 0.7650469906,
+   "mde80": 12.2571972401
+  },
+  {
+   "design": "adoption_1980s",
+   "spec": "per capita + unemployment",
+   "outcome": "ai_per_cap",
+   "label": "Impaired deaths per 100k residents (log x100)",
+   "att": 3.2118083366,
+   "ci_lo": -10.0208611711,
+   "ci_hi": 13.1387675944,
+   "p": 0.7986402719,
+   "mde80": 16.525419254
+  },
+  {
+   "design": "adoption_1980s",
+   "spec": "1983-95, all traffic-safety controls + unemployment",
+   "outcome": "ai_share",
+   "label": "Impaired share (pp)",
+   "att": 0.8897521447,
+   "ci_lo": -2.0915098405,
+   "ci_hi": 4.0270405177,
+   "p": 0.5662867427,
+   "mde80": 4.3745552922
+  },
+  {
+   "design": "adoption_1980s",
+   "spec": "1983-95, all traffic-safety controls + unemployment",
+   "outcome": "ai_per_cap",
+   "label": "Impaired deaths per 100k residents (log x100)",
+   "att": 4.2690696565,
+   "ci_lo": -9.207937228,
+   "ci_hi": 16.2364296947,
+   "p": 0.6122775445,
+   "mde80": 18.0597326463
+  },
+  {
+   "design": "modern_repeals",
+   "spec": "population-weighted",
+   "outcome": "ai_share",
+   "label": "Impaired share (pp)",
+   "att": -0.6052513693,
+   "ci_lo": -4.7748283063,
+   "ci_hi": 5.5947989589,
+   "p": 0.8522295541,
+   "mde80": 7.3140651435
+  },
+  {
+   "design": "modern_repeals",
+   "spec": "population-weighted",
+   "outcome": "ai_per_cap",
+   "label": "Impaired deaths per 100k residents (log x100)",
+   "att": 3.2454574465,
+   "ci_lo": -12.5884717072,
+   "ci_hi": 24.9567670097,
+   "p": 0.5810837832,
+   "mde80": 25.7194111318
+  },
+  {
+   "design": "adoption_1980s",
+   "spec": "population-weighted",
+   "outcome": "ai_share",
+   "label": "Impaired share (pp)",
+   "att": 0.1032841663,
+   "ci_lo": -2.7951986954,
+   "ci_hi": 3.6241349006,
+   "p": 0.8854229154,
+   "mde80": 4.5730178486
+  },
+  {
+   "design": "adoption_1980s",
+   "spec": "population-weighted",
+   "outcome": "ai_per_cap",
+   "label": "Impaired deaths per 100k residents (log x100)",
+   "att": 5.5185588302,
+   "ci_lo": -12.5912073137,
+   "ci_hi": 16.512557671,
+   "p": 0.7922415517,
+   "mde80": 22.6060131103
+  }
+ ],
+ "sdid": [
+  {
+   "outcome": "ai_per_cap",
+   "tau": -3.6204039304,
+   "ci_lo": -21.0186276752,
+   "ci_hi": 12.3133091374,
+   "p": 0.7078584283,
+   "KS": -15.366318144,
+   "IL": 6.0977294587,
+   "OK": -1.592623106
+  },
+  {
+   "outcome": "sober_per_cap",
+   "tau": 2.4955042022,
+   "ci_lo": -6.8717748722,
+   "ci_hi": 12.4646431176,
+   "p": 0.7286542691,
+   "KS": 4.117408849,
+   "IL": 10.2730263268,
+   "OK": -6.9039225692
+  }
+ ],
+ "checks": [
+  {
+   "area": "data (FRED upload)",
+   "check": "51 jurisdictions x 1982-2024, no duplicates or gaps",
+   "result": "51 x 43 = 2193 rows; 0 duplicates; 0 missing",
+   "status": "PASS"
+  },
+  {
+   "area": "data (FRED upload)",
+   "check": "unemployment values are averages of twelve one-decimal monthly rates (FRED's annual-average signature)",
+   "result": "100.0% of values fit (random 3-decimal numbers would fit ~12% of the time)",
+   "status": "PASS"
+  },
+  {
+   "area": "data (FRED upload)",
+   "check": "unemployment agrees with Ruhm's independently compiled 1982-88 panel (48 states)",
+   "result": "correlation 0.996; mean abs diff 0.18 pp; largest 0.93 pp (WV 1983)",
+   "status": "PASS"
+  },
+  {
+   "area": "data (FRED upload)",
+   "check": "population agrees with Ruhm's 1982-88 panel",
+   "result": "median ratio 0.9955; range 0.971-1.020",
+   "status": "PASS"
+  },
+  {
+   "area": "data (FRED upload)",
+   "check": "state populations sum to the published US totals",
+   "result": "% deviation by year {1982: np.float64(-0.02), 1990: np.float64(-0.05), 2000: np.float64(-0.01), 2010: np.float64(0.01), 2020: np.float64(0.02), 2024: np.float64(-0.03)}",
+   "status": "PASS"
+  },
+  {
+   "area": "data (FRED upload)",
+   "check": "population-weighted state unemployment tracks the published national rate",
+   "result": "pp deviation by year {1982: np.float64(0.01), 1983: np.float64(0.06), 1990: np.float64(0.03), 2000: np.float64(0.01), 2009: np.float64(-0.04), 2010: np.float64(0.04), 2019: np.float64(-0.03), 2020: np.float64(0.03), 2023: np.float64(0.04), 2024: np.float64(0.02)}",
+   "status": "PASS"
+  },
+  {
+   "area": "data (FRED upload)",
+   "check": "spot checks against well-known values",
+   "result": "NV 2020 unemployment >= 12 (pandemic): ok; MI 2009 unemployment >= 12.5: ok; ND 2015 unemployment <= 3.5: ok; CA 2010 unemployment >= 11.5: ok; CA 2020 population 39.3-39.7M: ok; TX 2024 population 30.5-31.8M: ok; DC 2024 population 0.66-0.72M: ok; WY 2024 population 0.57-0.60M: ok",
+   "status": "PASS"
+  },
+  {
+   "area": "data (FRED upload)",
+   "check": "no implausible jumps or repeated values",
+   "result": "population growth range -6.0% to 11.6%; flagged [['AK', 1983, 8.63, 0.11], ['DC', 2000, 10.22, -0.88], ['NV', 2000, 11.58, 0.09]]; repeated population values 0; highest unemployment [['WV', 1983, 17.075], ['MI', 1982, 15.383], ['MI', 1983, 14.5]]",
+   "status": "FLAG"
+  },
+  {
+   "area": "data (FRED upload)",
+   "check": "merged panel is complete and per-capita rates are plausible",
+   "result": "0 state-years missing; deaths per 100k 2.4-42.3; vehicle-miles per resident 4,517-19,143",
+   "status": "PASS"
+  }
+ ],
+ "base_per_100k": {
+  "modern_repeals": 3.7090247083532955,
+  "adoption_1980s": 7.741618505295889
+ },
+ "top_unemp": [
+  [
+   "WV",
+   1983,
+   17.075
+  ],
+  [
+   "MI",
+   1982,
+   15.383
+  ],
+  [
+   "MI",
+   1983,
+   14.5
+  ]
+ ],
+ "nvdc": {
+  "att": -1.898294066863507,
+  "ci_lo": -17.19467966067443,
+  "ci_hi": 15.594817919676785,
+  "p": 0.9678064387122576
+ }
+}

@@ -1,0 +1,9 @@
+outcome,unit,tau,ci_lo,ci_hi,p
+ai_per_vmt,KS,-18.835,-51.327,13.657,0.27
+ai_per_vmt,IL,9.003,-27.455,45.461,0.486
+ai_per_vmt,OK,7.718,-20.163,35.6,0.649
+ai_per_vmt,Pooled (mean of 3),-0.704,-19.86,16.397,0.986
+sober_per_vmt,KS,-4.068,-24.423,16.287,0.757
+sober_per_vmt,IL,9.394,-11.015,29.804,0.432
+sober_per_vmt,OK,4.744,-13.421,22.91,0.757
+sober_per_vmt,Pooled (mean of 3),3.357,-7.585,15.257,0.636

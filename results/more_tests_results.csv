@@ -1,0 +1,30 @@
+section,design,spec,outcome,label,att,ci_lo,ci_hi,p
+weekend,modern_repeals,main,we_ai,"Weekday vs weekend evenings, impaired (x100)",12.482,-3.065,29.662,0.141
+weekend,modern_repeals,main,we_sober,"Weekday vs weekend evenings, sober: placebo (x100)",-13.92,-21.748,-2.281,0.018
+weekend,modern_repeals,main,we_net,"Weekday vs weekend evenings, net (x100)",26.558,5.722,44.352,0.008
+timing,modern_repeals,main,tod_all,"Evening vs night, ALL deaths (x100)",0.588,-9.659,11.444,0.916
+weekend,adoption_1980s,main,we_ai,"Weekday vs weekend evenings, impaired (x100)",-11.039,-22.975,10.283,0.426
+weekend,adoption_1980s,main,we_sober,"Weekday vs weekend evenings, sober: placebo (x100)",5.731,-13.489,23.173,0.731
+weekend,adoption_1980s,main,we_net,"Weekday vs weekend evenings, net (x100)",-16.77,-35.868,12.376,0.366
+timing,adoption_1980s,main,tod_all,"Evening vs night, ALL deaths (x100)",9.045,0.19,20.036,0.044
+timing,adoption_1980s,main,eve_per_vmt,Weekday-evening deaths per mile (log x100),7.072,-4.941,17.577,0.266
+timing,adoption_1980s,main,night_per_vmt,Night deaths per mile (log x100),-1.973,-13.561,7.834,0.533
+neighbors,modern_repeals,drop 10 bordering states,ai_share,Impaired share (pp),-1.392,-5.361,3.275,0.686
+neighbors,modern_repeals,drop 10 bordering states,log_odds,"Log odds, impaired vs sober (x100)",-7.321,-25.75,15.283,0.655
+jackknife,modern_repeals,without KS,ai_share,Impaired share (pp),-0.172,-4.744,5.734,0.813
+jackknife,modern_repeals,without IL,ai_share,Impaired share (pp),-2.096,-7.064,2.521,0.442
+jackknife,modern_repeals,without OK,ai_share,Impaired share (pp),-1.933,-5.746,3.362,0.655
+neighbors,adoption_1980s,drop 9 bordering states,ai_share,Impaired share (pp),0.173,-2.308,3.615,0.531
+neighbors,adoption_1980s,drop 9 bordering states,log_odds,"Log odds, impaired vs sober (x100)",1.118,-9.549,16.136,0.48
+jackknife,adoption_1980s,without MA,ai_share,Impaired share (pp),1.391,-2.026,4.489,0.496
+jackknife,adoption_1980s,without MA,svn_share,Single-vehicle-night share (pp),-0.606,-2.73,0.934,0.413
+jackknife,adoption_1980s,without KS,ai_share,Impaired share (pp),0.041,-3.028,3.329,0.994
+jackknife,adoption_1980s,without KS,svn_share,Single-vehicle-night share (pp),-1.755,-3.676,-0.214,0.024
+jackknife,adoption_1980s,without IN,ai_share,Impaired share (pp),0.466,-2.864,3.542,0.892
+jackknife,adoption_1980s,without IN,svn_share,Single-vehicle-night share (pp),-0.905,-3.016,0.58,0.246
+jackknife,adoption_1980s,without NC,ai_share,Impaired share (pp),1.423,-1.894,4.566,0.478
+jackknife,adoption_1980s,without NC,svn_share,Single-vehicle-night share (pp),-0.881,-2.969,0.789,0.305
+jackknife,adoption_1980s,without VT,ai_share,Impaired share (pp),0.541,-2.253,4.018,0.569
+jackknife,adoption_1980s,without VT,svn_share,Single-vehicle-night share (pp),-0.973,-2.378,0.577,0.264
+jackknife,adoption_1980s,without IL,ai_share,Impaired share (pp),0.792,-2.361,4.283,0.623
+jackknife,adoption_1980s,without IL,svn_share,Single-vehicle-night share (pp),-1.285,-3.148,0.495,0.166

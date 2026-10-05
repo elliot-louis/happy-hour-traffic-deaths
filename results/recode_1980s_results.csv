@@ -1,0 +1,31 @@
+design,treated,n_treated,n_controls,outcome,label,att,ci_lo,ci_hi,p
+"Six bans (MA, KS, IN, NC, VT, IL)","MA, KS, IN, NC, VT, IL",6,29,ai_share,Impaired share (pp),0.781,-2.191,3.796,0.637
+"Six bans (MA, KS, IN, NC, VT, IL)","MA, KS, IN, NC, VT, IL",6,29,log_odds,"Log odds, impaired vs sober (x100)",3.546,-8.603,16.597,0.614
+"Six bans (MA, KS, IN, NC, VT, IL)","MA, KS, IN, NC, VT, IL",6,29,ai_per_cap,Impaired deaths per 100k (log x100),5.953,-9.018,16.577,0.582
+"Six bans (MA, KS, IN, NC, VT, IL)","MA, KS, IN, NC, VT, IL",6,29,svn_share,Single-vehicle-night share (pp),-1.062,-2.905,0.5,0.181
+"Six bans (MA, KS, IN, NC, VT, IL)","MA, KS, IN, NC, VT, IL",6,29,ddd_net,Net evening test (x100),-19.622,-36.669,0.381,0.054
+"Four strict bans (MA, NC, VT, IL)","MA, NC, VT, IL",4,29,ai_share,Impaired share (pp),-0.537,-3.965,2.832,0.64
+"Four strict bans (MA, NC, VT, IL)","MA, NC, VT, IL",4,29,log_odds,"Log odds, impaired vs sober (x100)",-1.888,-17.0,12.509,0.7
+"Four strict bans (MA, NC, VT, IL)","MA, NC, VT, IL",4,29,ai_per_cap,Impaired deaths per 100k (log x100),2.992,-13.789,16.25,0.909
+"Four strict bans (MA, NC, VT, IL)","MA, NC, VT, IL",4,29,svn_share,Single-vehicle-night share (pp),-1.733,-4.045,-0.182,0.031
+"Four strict bans (MA, NC, VT, IL)","MA, NC, VT, IL",4,29,ddd_net,Net evening test (x100),-26.822,-43.524,-0.269,0.045
+"Original seven, clean comparison group","MA, KS, IN, NC, VT, IL, RI",7,29,ai_share,Impaired share (pp),0.396,-2.682,2.968,0.975
+"Original seven, clean comparison group","MA, KS, IN, NC, VT, IL, RI",7,29,log_odds,"Log odds, impaired vs sober (x100)",2.015,-11.232,13.082,0.937
+"Original seven, clean comparison group","MA, KS, IN, NC, VT, IL, RI",7,29,ai_per_cap,Impaired deaths per 100k (log x100),5.94,-7.696,17.147,0.472
+"Original seven, clean comparison group","MA, KS, IN, NC, VT, IL, RI",7,29,svn_share,Single-vehicle-night share (pp),-1.942,-4.009,-0.578,0.006
+"Original seven, clean comparison group","MA, KS, IN, NC, VT, IL, RI",7,29,ddd_net,Net evening test (x100),-16.817,-32.989,7.657,0.241
+"Six bans, Vermont dated 1986","MA, KS, IN, NC, VT, IL",6,29,ai_share,Impaired share (pp),0.778,-2.113,3.807,0.581
+"Six bans, Vermont dated 1986","MA, KS, IN, NC, VT, IL",6,29,log_odds,"Log odds, impaired vs sober (x100)",3.537,-8.158,16.702,0.55
+"Six bans, Vermont dated 1986","MA, KS, IN, NC, VT, IL",6,29,ai_per_cap,Impaired deaths per 100k (log x100),5.239,-9.664,16.427,0.701
+"Six bans, Vermont dated 1986","MA, KS, IN, NC, VT, IL",6,29,svn_share,Single-vehicle-night share (pp),-0.819,-2.285,0.647,0.283
+"Six bans, Vermont dated 1986","MA, KS, IN, NC, VT, IL",6,29,ddd_net,Net evening test (x100),-18.328,-34.552,3.324,0.104
+Six bans plus Alaska (1983-95),"MA, KS, IN, NC, VT, IL, AK",7,29,ai_share,Impaired share (pp),-0.077,-2.941,2.327,0.815
+Six bans plus Alaska (1983-95),"MA, KS, IN, NC, VT, IL, AK",7,29,log_odds,"Log odds, impaired vs sober (x100)",-0.014,-12.124,9.872,0.831
+Six bans plus Alaska (1983-95),"MA, KS, IN, NC, VT, IL, AK",7,29,ai_per_cap,Impaired deaths per 100k (log x100),-3.069,-16.048,8.246,0.487
+Six bans plus Alaska (1983-95),"MA, KS, IN, NC, VT, IL, AK",7,29,svn_share,Single-vehicle-night share (pp),-0.765,-2.756,0.668,0.271
+Six bans plus Alaska (1983-95),"MA, KS, IN, NC, VT, IL, AK",7,29,ddd_net,Net evening test (x100),-16.135,-32.358,8.318,0.253
+Nine partial restrictions,"PA, CT, VA, ME, TX, WA, MI, OH, RI",9,29,ai_share,Impaired share (pp),-3.011,-5.922,-0.639,0.016
+Nine partial restrictions,"PA, CT, VA, ME, TX, WA, MI, OH, RI",9,29,log_odds,"Log odds, impaired vs sober (x100)",-11.992,-23.905,-2.169,0.024
+Nine partial restrictions,"PA, CT, VA, ME, TX, WA, MI, OH, RI",9,29,ai_per_cap,Impaired deaths per 100k (log x100),-5.655,-18.446,3.292,0.155
+Nine partial restrictions,"PA, CT, VA, ME, TX, WA, MI, OH, RI",9,29,svn_share,Single-vehicle-night share (pp),-2.661,-4.227,-1.583,0.0
+Nine partial restrictions,"PA, CT, VA, ME, TX, WA, MI, OH, RI",9,29,ddd_net,Net evening test (x100),1.487,-13.652,21.644,0.697

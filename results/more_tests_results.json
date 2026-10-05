@@ -1,0 +1,465 @@
+{
+ "rows": [
+  {
+   "section": "weekend",
+   "design": "modern_repeals",
+   "spec": "main",
+   "outcome": "we_ai",
+   "label": "Weekday vs weekend evenings, impaired (x100)",
+   "att": 12.4819344603,
+   "ci_lo": -3.0650774426,
+   "ci_hi": 29.6618398697,
+   "p": 0.1407718456
+  },
+  {
+   "section": "weekend",
+   "design": "modern_repeals",
+   "spec": "main",
+   "outcome": "we_sober",
+   "label": "Weekday vs weekend evenings, sober: placebo (x100)",
+   "att": -13.9201561767,
+   "ci_lo": -21.7476859228,
+   "ci_hi": -2.2811822275,
+   "p": 0.0179964007
+  },
+  {
+   "section": "weekend",
+   "design": "modern_repeals",
+   "spec": "main",
+   "outcome": "we_net",
+   "label": "Weekday vs weekend evenings, net (x100)",
+   "att": 26.5583327897,
+   "ci_lo": 5.7224082781,
+   "ci_hi": 44.3523055872,
+   "p": 0.0079984003
+  },
+  {
+   "section": "timing",
+   "design": "modern_repeals",
+   "spec": "main",
+   "outcome": "tod_all",
+   "label": "Evening vs night, ALL deaths (x100)",
+   "att": 0.587981197,
+   "ci_lo": -9.6594890988,
+   "ci_hi": 11.4440185987,
+   "p": 0.9162167566
+  },
+  {
+   "section": "weekend",
+   "design": "adoption_1980s",
+   "spec": "main",
+   "outcome": "we_ai",
+   "label": "Weekday vs weekend evenings, impaired (x100)",
+   "att": -11.0391957161,
+   "ci_lo": -22.974665415,
+   "ci_hi": 10.2825787629,
+   "p": 0.425514897
+  },
+  {
+   "section": "weekend",
+   "design": "adoption_1980s",
+   "spec": "main",
+   "outcome": "we_sober",
+   "label": "Weekday vs weekend evenings, sober: placebo (x100)",
+   "att": 5.7308234774,
+   "ci_lo": -13.4890408868,
+   "ci_hi": 23.1726129506,
+   "p": 0.7306538692
+  },
+  {
+   "section": "weekend",
+   "design": "adoption_1980s",
+   "spec": "main",
+   "outcome": "we_net",
+   "label": "Weekday vs weekend evenings, net (x100)",
+   "att": -16.7700191935,
+   "ci_lo": -35.8675163552,
+   "ci_hi": 12.3761798199,
+   "p": 0.3663267347
+  },
+  {
+   "section": "timing",
+   "design": "adoption_1980s",
+   "spec": "main",
+   "outcome": "tod_all",
+   "label": "Evening vs night, ALL deaths (x100)",
+   "att": 9.0452229922,
+   "ci_lo": 0.1898955069,
+   "ci_hi": 20.0362362964,
+   "p": 0.0439912018
+  },
+  {
+   "section": "timing",
+   "design": "adoption_1980s",
+   "spec": "main",
+   "outcome": "eve_per_vmt",
+   "label": "Weekday-evening deaths per mile (log x100)",
+   "att": 7.0719635692,
+   "ci_lo": -4.9406030079,
+   "ci_hi": 17.5766823721,
+   "p": 0.2659468106
+  },
+  {
+   "section": "timing",
+   "design": "adoption_1980s",
+   "spec": "main",
+   "outcome": "night_per_vmt",
+   "label": "Night deaths per mile (log x100)",
+   "att": -1.9732594231,
+   "ci_lo": -13.5606174351,
+   "ci_hi": 7.8344459136,
+   "p": 0.5334933013
+  },
+  {
+   "section": "neighbors",
+   "design": "modern_repeals",
+   "spec": "drop 10 bordering states",
+   "outcome": "ai_share",
+   "label": "Impaired share (pp)",
+   "att": -1.3916556138,
+   "ci_lo": -5.360542369,
+   "ci_hi": 3.2754686292,
+   "p": 0.6858628274
+  },
+  {
+   "section": "neighbors",
+   "design": "modern_repeals",
+   "spec": "drop 10 bordering states",
+   "outcome": "log_odds",
+   "label": "Log odds, impaired vs sober (x100)",
+   "att": -7.3214611435,
+   "ci_lo": -25.7502259089,
+   "ci_hi": 15.2831952695,
+   "p": 0.6546690662
+  },
+  {
+   "section": "jackknife",
+   "design": "modern_repeals",
+   "spec": "without KS",
+   "outcome": "ai_share",
+   "label": "Impaired share (pp)",
+   "att": -0.1720006509,
+   "ci_lo": -4.744028723,
+   "ci_hi": 5.7339602134,
+   "p": 0.8126374725
+  },
+  {
+   "section": "jackknife",
+   "design": "modern_repeals",
+   "spec": "without IL",
+   "outcome": "ai_share",
+   "label": "Impaired share (pp)",
+   "att": -2.0964799712,
+   "ci_lo": -7.0636164696,
+   "ci_hi": 2.5207897883,
+   "p": 0.4419116177
+  },
+  {
+   "section": "jackknife",
+   "design": "modern_repeals",
+   "spec": "without OK",
+   "outcome": "ai_share",
+   "label": "Impaired share (pp)",
+   "att": -1.9328364131,
+   "ci_lo": -5.7455929787,
+   "ci_hi": 3.3619511087,
+   "p": 0.6550689862
+  },
+  {
+   "section": "neighbors",
+   "design": "adoption_1980s",
+   "spec": "drop 9 bordering states",
+   "outcome": "ai_share",
+   "label": "Impaired share (pp)",
+   "att": 0.1731783093,
+   "ci_lo": -2.307693585,
+   "ci_hi": 3.614893269,
+   "p": 0.5314937013
+  },
+  {
+   "section": "neighbors",
+   "design": "adoption_1980s",
+   "spec": "drop 9 bordering states",
+   "outcome": "log_odds",
+   "label": "Log odds, impaired vs sober (x100)",
+   "att": 1.1179354547,
+   "ci_lo": -9.5490398079,
+   "ci_hi": 16.1355886406,
+   "p": 0.4799040192
+  },
+  {
+   "section": "jackknife",
+   "design": "adoption_1980s",
+   "spec": "without MA",
+   "outcome": "ai_share",
+   "label": "Impaired share (pp)",
+   "att": 1.39106319,
+   "ci_lo": -2.0258368053,
+   "ci_hi": 4.4888887468,
+   "p": 0.4959008198
+  },
+  {
+   "section": "jackknife",
+   "design": "adoption_1980s",
+   "spec": "without MA",
+   "outcome": "svn_share",
+   "label": "Single-vehicle-night share (pp)",
+   "att": -0.6056490168,
+   "ci_lo": -2.7300028156,
+   "ci_hi": 0.9337571476,
+   "p": 0.4131173765
+  },
+  {
+   "section": "jackknife",
+   "design": "adoption_1980s",
+   "spec": "without KS",
+   "outcome": "ai_share",
+   "label": "Impaired share (pp)",
+   "att": 0.0411474083,
+   "ci_lo": -3.0276580044,
+   "ci_hi": 3.3286619887,
+   "p": 0.9942011598
+  },
+  {
+   "section": "jackknife",
+   "design": "adoption_1980s",
+   "spec": "without KS",
+   "outcome": "svn_share",
+   "label": "Single-vehicle-night share (pp)",
+   "att": -1.7551837183,
+   "ci_lo": -3.6756934918,
+   "ci_hi": -0.2140366572,
+   "p": 0.024395121
+  },
+  {
+   "section": "jackknife",
+   "design": "adoption_1980s",
+   "spec": "without IN",
+   "outcome": "ai_share",
+   "label": "Impaired share (pp)",
+   "att": 0.4664578728,
+   "ci_lo": -2.8636435339,
+   "ci_hi": 3.5423806432,
+   "p": 0.8918216357
+  },
+  {
+   "section": "jackknife",
+   "design": "adoption_1980s",
+   "spec": "without IN",
+   "outcome": "svn_share",
+   "label": "Single-vehicle-night share (pp)",
+   "att": -0.9050045159,
+   "ci_lo": -3.0162661168,
+   "ci_hi": 0.5799723531,
+   "p": 0.2455508898
+  },
+  {
+   "section": "jackknife",
+   "design": "adoption_1980s",
+   "spec": "without NC",
+   "outcome": "ai_share",
+   "label": "Impaired share (pp)",
+   "att": 1.4227347605,
+   "ci_lo": -1.8941970695,
+   "ci_hi": 4.5660073228,
+   "p": 0.4779044191
+  },
+  {
+   "section": "jackknife",
+   "design": "adoption_1980s",
+   "spec": "without NC",
+   "outcome": "svn_share",
+   "label": "Single-vehicle-night share (pp)",
+   "att": -0.8805717414,
+   "ci_lo": -2.9694221539,
+   "ci_hi": 0.7888100611,
+   "p": 0.3047390522
+  },
+  {
+   "section": "jackknife",
+   "design": "adoption_1980s",
+   "spec": "without VT",
+   "outcome": "ai_share",
+   "label": "Impaired share (pp)",
+   "att": 0.5406683655,
+   "ci_lo": -2.2533216541,
+   "ci_hi": 4.0182139347,
+   "p": 0.5686862627
+  },
+  {
+   "section": "jackknife",
+   "design": "adoption_1980s",
+   "spec": "without VT",
+   "outcome": "svn_share",
+   "label": "Single-vehicle-night share (pp)",
+   "att": -0.9730674712,
+   "ci_lo": -2.3784124712,
+   "ci_hi": 0.5773259496,
+   "p": 0.2639472106
+  },
+  {
+   "section": "jackknife",
+   "design": "adoption_1980s",
+   "spec": "without IL",
+   "outcome": "ai_share",
+   "label": "Impaired share (pp)",
+   "att": 0.7923621026,
+   "ci_lo": -2.3610612231,
+   "ci_hi": 4.2833551886,
+   "p": 0.6230753849
+  },
+  {
+   "section": "jackknife",
+   "design": "adoption_1980s",
+   "spec": "without IL",
+   "outcome": "svn_share",
+   "label": "Single-vehicle-night share (pp)",
+   "att": -1.2852975084,
+   "ci_lo": -3.1478044231,
+   "ci_hi": 0.4950161511,
+   "p": 0.1655668866
+  }
+ ],
+ "pooled": [
+  {
+   "outcome": "log_odds",
+   "weighting": "equal weight per law change (3 repeals, 6 bans)",
+   "weight_on_repeals": 0.3333333333,
+   "att": 4.8008495315,
+   "ci_lo": -6.8289412957,
+   "ci_hi": 14.5739409672,
+   "p": 0.4955008998
+  },
+  {
+   "outcome": "log_odds",
+   "weighting": "inverse-variance weights",
+   "weight_on_repeals": 0.3008362223,
+   "att": 4.6785306026,
+   "ci_lo": -6.7515487901,
+   "ci_hi": 14.4740724552,
+   "p": 0.4987002599
+  },
+  {
+   "outcome": "ai_share",
+   "weighting": "equal weight per law change (3 repeals, 6 bans)",
+   "weight_on_repeals": 0.3333333333,
+   "att": 0.9835994883,
+   "ci_lo": -1.603567396,
+   "ci_hi": 3.2973258728,
+   "p": 0.5306938612
+  },
+  {
+   "outcome": "ai_share",
+   "weighting": "inverse-variance weights",
+   "weight_on_repeals": 0.3490285286,
+   "att": 0.9931539643,
+   "ci_lo": -1.6007576805,
+   "ci_hi": 3.2935241161,
+   "p": 0.5314937013
+  }
+ ],
+ "midrvacc": [
+  {
+   "year": 2013,
+   "crashes": 30202,
+   "identical_share": 0.9985100324481823,
+   "impaired_deaths_mine": 10109.2,
+   "impaired_deaths_nhtsa_file": 10084.099999999999,
+   "max_abs_diff": 0.9
+  },
+  {
+   "year": 2014,
+   "crashes": 30056,
+   "identical_share": 0.9987356933723716,
+   "impaired_deaths_mine": 9965.5,
+   "impaired_deaths_nhtsa_file": 9942.900000000001,
+   "max_abs_diff": 0.9
+  },
+  {
+   "year": 2015,
+   "crashes": 32166,
+   "identical_share": 0.9986942734564447,
+   "impaired_deaths_mine": 10292.900000000001,
+   "impaired_deaths_nhtsa_file": 10265.4,
+   "max_abs_diff": 0.8
+  }
+ ],
+ "curve": {
+  "n_modern": 16,
+  "n_1980s": 34,
+  "sig_modern": 0,
+  "sig_1980s": 0,
+  "range_modern": [
+   -2.09647997121622,
+   -0.137
+  ],
+  "range_1980s": [
+   -0.537,
+   1.4227347605066787
+  ]
+ },
+ "weekend_checks": {
+  "main": {
+   "att": 26.558332789732525,
+   "p": 0.008398320335932814,
+   "by_state": {
+    "KS": {
+     "att": 39.34525791682594,
+     "p": 0.17391304347826086
+    },
+    "IL": {
+     "att": 23.283267135888337,
+     "p": 0.2222222222222222
+    },
+    "OK": {
+     "att": 17.0464733164833,
+     "p": 0.5384615384615384
+    }
+   }
+  },
+  "robustness": {
+   "excl. 2020-21": {
+    "att": 32.32510231521653,
+    "ci_lo": 8.93893674077651,
+    "ci_hi": 52.10519125136703,
+    "p": 0.003599280143971206
+   },
+   "state linear trends": {
+    "att": 29.259463512990042,
+    "ci_lo": -4.502070843660311,
+    "ci_hi": 62.3338071254519,
+    "p": 0.10717856428714258
+   },
+   "fatality-weighted": {
+    "att": 24.445411689825423,
+    "ci_lo": 4.908028307623258,
+    "ci_hi": 38.906715022786955,
+    "p": 0.008798240351929614
+   },
+   "all post years": {
+    "att": 24.544492101257166,
+    "ci_lo": 7.083915638010896,
+    "ci_hi": 38.74796347487381,
+    "p": 0.003999200159968006
+   },
+   "KS + OK only": {
+    "att": 28.309293472388546,
+    "ci_lo": 1.760093400221685,
+    "ci_hi": 54.53951894004672,
+    "p": 0.03479304139172166
+   },
+   "timing placebo (5 yrs early)": {
+    "att": 2.0647932854092157,
+    "ci_lo": -35.27465738793871,
+    "ci_hi": 25.141064112272748,
+    "p": 0.7550489902019596
+   }
+  },
+  "size": {
+   "sims": 200,
+   "reject_5pct": 0.105,
+   "reject_1pct": 0.05,
+   "share_p_at_or_below_actual": 0.05
+  }
+ }
+}

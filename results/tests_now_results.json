@@ -1,0 +1,167 @@
+{
+ "power": {
+  "adoption_1980s": [
+   {
+    "design": "adoption_1980s",
+    "outcome": "ai_share",
+    "injected_x100": 0.0,
+    "sims": 300,
+    "reject_5pct": 0.08333333333333333,
+    "mc_se": 0.015957118462605634,
+    "reject_10pct": 0.12333333333333334,
+    "mean_estimate_x100": 0.11634748148332144,
+    "sd_estimate_x100": 1.5987987062931677
+   },
+   {
+    "design": "adoption_1980s",
+    "outcome": "ai_share",
+    "injected_x100": 4.192,
+    "sims": 150,
+    "reject_5pct": 0.62,
+    "mc_se": 0.0396316371938716,
+    "reject_10pct": 0.7733333333333333,
+    "mean_estimate_x100": 3.820106869012914,
+    "sd_estimate_x100": 1.7382306178303997
+   },
+   {
+    "design": "adoption_1980s",
+    "outcome": "svn_share",
+    "injected_x100": 0.0,
+    "sims": 150,
+    "reject_5pct": 0.11333333333333333,
+    "mc_se": 0.025882927305966107,
+    "reject_10pct": 0.18,
+    "mean_estimate_x100": 0.027925733310602392,
+    "sd_estimate_x100": 0.9111523877223334
+   }
+  ],
+  "modern_repeals": [
+   {
+    "design": "modern_repeals",
+    "outcome": "ai_share",
+    "injected_x100": 0.0,
+    "sims": 300,
+    "reject_5pct": 0.07,
+    "mc_se": 0.014730919862656237,
+    "reject_10pct": 0.11,
+    "mean_estimate_x100": -0.019750711580119405,
+    "sd_estimate_x100": 1.9184225939928645
+   },
+   {
+    "design": "modern_repeals",
+    "outcome": "ai_share",
+    "injected_x100": 5.828,
+    "sims": 150,
+    "reject_5pct": 0.8133333333333334,
+    "mc_se": 0.031814275854530276,
+    "reject_10pct": 0.9266666666666666,
+    "mean_estimate_x100": 5.533033238102173,
+    "sd_estimate_x100": 1.9253775374240643
+   },
+   {
+    "design": "modern_repeals",
+    "outcome": "ddd_net",
+    "injected_x100": 0.0,
+    "sims": 150,
+    "reject_5pct": 0.08666666666666667,
+    "mc_se": 0.022971802360801027,
+    "reject_10pct": 0.14,
+    "mean_estimate_x100": 0.07142316983650547,
+    "sd_estimate_x100": 16.19056299084487
+   }
+  ]
+ },
+ "dates": {
+  "ai_share": {
+   "base_att": 0.7806822724190157,
+   "base_p": 0.651869626074785,
+   "min_att": 0.5332468676984529,
+   "max_att": 1.0697400510185229,
+   "min_p": 0.5610877824435113,
+   "max_p": 0.7066586682663467,
+   "min_ci_lo": -2.4206464351575736,
+   "max_ci_hi": 4.189766980597387,
+   "most_sensitive": "NC +1"
+  },
+  "svn_share": {
+   "base_att": -1.0616840953997304,
+   "base_p": 0.17036592681463708,
+   "min_att": -1.2547669635803125,
+   "max_att": -0.5730815856068985,
+   "min_p": 0.16836632673465307,
+   "max_p": 0.4315136972605479,
+   "min_ci_lo": -3.0019026200631447,
+   "max_ci_hi": 0.8747576036718732,
+   "most_sensitive": "MA -1"
+  }
+ },
+ "monthly": {
+  "rows": [
+   {
+    "label": "Indiana, Jul-Dec 2024 (state x month seasonality)",
+    "unit": "IN",
+    "post_months": 6,
+    "att_pp": 1.9807843137,
+    "ci_lo_pp": -4.7345944742,
+    "ci_hi_pp": 7.0623322935,
+    "p": 0.5142857143,
+    "mde80_pp": 9.2595014689,
+    "placebos": 34,
+    "baseline_share_pct": 26.6131979695,
+    "monthly_deaths": 74.6212121212
+   },
+   {
+    "label": "Indiana, Jul-Dec 2024 (common seasonality only)",
+    "unit": "IN",
+    "post_months": 6,
+    "att_pp": 2.2751203209,
+    "ci_lo_pp": -4.4663466213,
+    "ci_hi_pp": 6.4079242694,
+    "p": 0.4571428571,
+    "mde80_pp": 8.5383892656,
+    "placebos": 34,
+    "baseline_share_pct": 26.6131979695,
+    "monthly_deaths": 74.6212121212
+   },
+   {
+    "label": "Oklahoma, Oct 2018-Sep 2024 (monthly, includes late 2018)",
+    "unit": "OK",
+    "post_months": 72,
+    "att_pp": 1.230137741,
+    "ci_lo_pp": -3.2815954502,
+    "ci_hi_pp": 5.5355790289,
+    "p": 0.6470588235,
+    "mde80_pp": 7.1253470439,
+    "placebos": 33,
+    "baseline_share_pct": 24.5316729832,
+    "monthly_deaths": 55.9696969697
+   },
+   {
+    "label": "Oklahoma, Oct 2018-Sep 2024 (state x month seasonality)",
+    "unit": "OK",
+    "post_months": 72,
+    "att_pp": 1.0486952862,
+    "ci_lo_pp": -3.5077118319,
+    "ci_hi_pp": 5.2160329598,
+    "p": 0.7058823529,
+    "mde80_pp": 7.13154994,
+    "placebos": 33,
+    "baseline_share_pct": 24.5316729832,
+    "monthly_deaths": 55.9696969697
+   }
+  ],
+  "consistency": {
+   "max_deaths_diff": 0.0,
+   "max_impaired_diff": 2.2737367544323206e-13
+  },
+  "indiana_in_time_placebos_pp": [
+   -3.2,
+   -0.86,
+   0.13,
+   -1.42,
+   2.1,
+   -0.17
+  ],
+  "n_states": 35
+ }
+}

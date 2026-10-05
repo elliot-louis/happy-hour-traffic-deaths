@@ -1,0 +1,5 @@
+outcome,weighting,weight_on_repeals,att,ci_lo,ci_hi,p
+log_odds,"equal weight per law change (3 repeals, 6 bans)",0.3333,4.8008,-6.8289,14.5739,0.4955
+log_odds,inverse-variance weights,0.3008,4.6785,-6.7515,14.4741,0.4987
+ai_share,"equal weight per law change (3 repeals, 6 bans)",0.3333,0.9836,-1.6036,3.2973,0.5307
+ai_share,inverse-variance weights,0.349,0.9932,-1.6008,3.2935,0.5315

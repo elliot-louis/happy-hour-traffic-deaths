@@ -1,0 +1,181 @@
+{
+ "rows": [
+  {
+   "design": "modern",
+   "outcome": "ai_share",
+   "label": "Impaired share of deaths (pp)",
+   "att": -1.3894339201,
+   "ci95_lo": -5.0663279067,
+   "ci95_hi": 3.0912872607,
+   "ci90_lo": -4.435171598,
+   "ci90_hi": 2.5905712427,
+   "p": 0.7202559488
+  },
+  {
+   "design": "modern",
+   "outcome": "log_odds",
+   "label": "Odds a death involved an impaired driver",
+   "att": -7.310178821,
+   "ci95_lo": -23.9902605848,
+   "ci95_hi": 14.431114954,
+   "ci90_lo": -21.2073761553,
+   "ci90_hi": 11.6181142217,
+   "p": 0.6690661868
+  },
+  {
+   "design": "modern",
+   "outcome": "ai_per_cap",
+   "label": "Impaired deaths per resident",
+   "att": -1.1107609649,
+   "ci95_lo": -17.1719968781,
+   "ci95_hi": 15.9101263459,
+   "ci90_lo": -14.6650602629,
+   "ci90_hi": 13.9126022413,
+   "p": 0.9986002799
+  },
+  {
+   "design": "modern",
+   "outcome": "ai_per_vmt",
+   "label": "Impaired deaths per mile driven",
+   "att": 1.4565462407,
+   "ci95_lo": -17.5977490033,
+   "ci95_hi": 22.2951624147,
+   "ci90_lo": -13.8657082942,
+   "ci90_hi": 19.4385157855,
+   "p": 0.7102579484
+  },
+  {
+   "design": "modern",
+   "outcome": "ddd_net",
+   "label": "Evening vs night (timing test)",
+   "att": 14.894218642,
+   "ci95_lo": -6.6873164859,
+   "ci95_hi": 34.0493007268,
+   "ci90_lo": -3.5774939967,
+   "ci90_hi": 29.8614938299,
+   "p": 0.199160168
+  },
+  {
+   "design": "modern",
+   "outcome": "we_net",
+   "label": "Weekday vs weekend evenings (timing test)",
+   "att": 26.5583327897,
+   "ci95_lo": 5.6011531685,
+   "ci95_hi": 44.7831100196,
+   "ci90_lo": 8.5694578914,
+   "ci90_hi": 40.0661987454,
+   "p": 0.0091981604
+  },
+  {
+   "design": "1980s",
+   "outcome": "ai_share",
+   "label": "Impaired share of deaths (pp)",
+   "att": 0.7806822724,
+   "ci95_lo": -2.1389542557,
+   "ci95_hi": 3.7497934424,
+   "ci90_lo": -1.7303596084,
+   "ci90_hi": 3.2752323784,
+   "p": 0.6422715457
+  },
+  {
+   "design": "1980s",
+   "outcome": "log_odds",
+   "label": "Odds a death involved an impaired driver",
+   "att": 3.5461848868,
+   "ci95_lo": -8.7067839254,
+   "ci95_hi": 16.2810378001,
+   "ci90_lo": -6.7857099842,
+   "ci90_hi": 14.1345002847,
+   "p": 0.6094781044
+  },
+  {
+   "design": "1980s",
+   "outcome": "ai_per_cap",
+   "label": "Impaired deaths per resident",
+   "att": 5.9529464404,
+   "ci95_lo": -9.0816738709,
+   "ci95_hi": 16.8316663285,
+   "ci90_lo": -7.0789071147,
+   "ci90_hi": 14.5174044649,
+   "p": 0.5918816237
+  },
+  {
+   "design": "1980s",
+   "outcome": "ai_per_vmt",
+   "label": "Impaired deaths per mile driven",
+   "att": 3.5886014697,
+   "ci95_lo": -9.3727318482,
+   "ci95_hi": 14.4940482886,
+   "ci90_lo": -7.889094138,
+   "ci90_hi": 12.6650301945,
+   "p": 0.7130573885
+  },
+  {
+   "design": "1980s",
+   "outcome": "ddd_net",
+   "label": "Evening vs night (timing test)",
+   "att": -19.6217096923,
+   "ci95_lo": -36.8249867697,
+   "ci95_hi": 0.8440789904,
+   "ci90_lo": -34.5534621996,
+   "ci90_hi": -1.7225687709,
+   "p": 0.0619876025
+  },
+  {
+   "design": "1980s",
+   "outcome": "we_net",
+   "label": "Weekday vs weekend evenings (timing test)",
+   "att": -16.7700191935,
+   "ci95_lo": -35.4324856428,
+   "ci95_hi": 12.2869765996,
+   "ci90_lo": -31.226516518,
+   "ci90_hi": 9.2825182867,
+   "p": 0.3903219356
+  },
+  {
+   "design": "pooled9",
+   "outcome": "log_odds",
+   "label": "Odds a death involved an impaired driver",
+   "att": 4.8008495315,
+   "ci95_lo": -6.3780371144,
+   "ci95_hi": 14.4189998437,
+   "ci90_lo": -4.7735092534,
+   "ci90_hi": 12.5945084596,
+   "p": 0.4835032993
+  },
+  {
+   "design": "pooled9",
+   "outcome": "ai_per_cap",
+   "label": "Impaired deaths per resident",
+   "att": 4.3388846153,
+   "ci95_lo": -7.9511576175,
+   "ci95_hi": 12.7930527703,
+   "ci90_lo": -6.2377929694,
+   "ci90_hi": 11.2341766617,
+   "p": 0.6434713057
+  },
+  {
+   "design": "pooled9",
+   "outcome": "ai_per_vmt",
+   "label": "Impaired deaths per mile driven",
+   "att": 1.9068855662,
+   "ci95_lo": -9.8339489161,
+   "ci95_hi": 10.7533651727,
+   "ci90_lo": -8.2610724009,
+   "ci90_hi": 9.353666548,
+   "p": 0.9434113177
+  },
+  {
+   "design": "pooled9",
+   "outcome": "ai_share",
+   "label": "Impaired share of deaths (pp)",
+   "att": 0.9835994883,
+   "ci95_lo": -1.5616473573,
+   "ci95_hi": 3.2414156162,
+   "ci90_lo": -1.2231978658,
+   "ci90_hi": 2.8474790258,
+   "p": 0.5454909018
+  }
+ ],
+ "n_clean": 29
+}

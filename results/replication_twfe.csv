@@ -1,0 +1,2 @@
+spec,coef,se,p,original_coef,original_se
+"TWFE, ai_share on banned (0/1), state+year FE, clustered by state, 1994-2024",0.0113,0.008,0.1562,0.0155,0.012

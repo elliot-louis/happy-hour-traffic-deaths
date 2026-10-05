@@ -1,0 +1,612 @@
+{
+ "rows": [
+  {
+   "design": "Six bans (MA, KS, IN, NC, VT, IL)",
+   "treated": "MA, KS, IN, NC, VT, IL",
+   "n_treated": 6,
+   "n_controls": 29,
+   "outcome": "ai_share",
+   "label": "Impaired share (pp)",
+   "att": 0.7806822724,
+   "ci_lo": -2.1906949497,
+   "ci_hi": 3.7963446779,
+   "p": 0.6366726655
+  },
+  {
+   "design": "Six bans (MA, KS, IN, NC, VT, IL)",
+   "treated": "MA, KS, IN, NC, VT, IL",
+   "n_treated": 6,
+   "n_controls": 29,
+   "outcome": "log_odds",
+   "label": "Log odds, impaired vs sober (x100)",
+   "att": 3.5461848868,
+   "ci_lo": -8.603244839,
+   "ci_hi": 16.5967133852,
+   "p": 0.6142771446
+  },
+  {
+   "design": "Six bans (MA, KS, IN, NC, VT, IL)",
+   "treated": "MA, KS, IN, NC, VT, IL",
+   "n_treated": 6,
+   "n_controls": 29,
+   "outcome": "ai_per_cap",
+   "label": "Impaired deaths per 100k (log x100)",
+   "att": 5.9529464404,
+   "ci_lo": -9.0181043469,
+   "ci_hi": 16.5765708375,
+   "p": 0.5818836233
+  },
+  {
+   "design": "Six bans (MA, KS, IN, NC, VT, IL)",
+   "treated": "MA, KS, IN, NC, VT, IL",
+   "n_treated": 6,
+   "n_controls": 29,
+   "outcome": "svn_share",
+   "label": "Single-vehicle-night share (pp)",
+   "att": -1.0616840954,
+   "ci_lo": -2.9045153879,
+   "ci_hi": 0.4996692951,
+   "p": 0.1807638472
+  },
+  {
+   "design": "Six bans (MA, KS, IN, NC, VT, IL)",
+   "treated": "MA, KS, IN, NC, VT, IL",
+   "n_treated": 6,
+   "n_controls": 29,
+   "outcome": "ddd_net",
+   "label": "Net evening test (x100)",
+   "att": -19.6217096923,
+   "ci_lo": -36.6692512975,
+   "ci_hi": 0.3810636087,
+   "p": 0.0543891222
+  },
+  {
+   "design": "Four strict bans (MA, NC, VT, IL)",
+   "treated": "MA, NC, VT, IL",
+   "n_treated": 4,
+   "n_controls": 29,
+   "outcome": "ai_share",
+   "label": "Impaired share (pp)",
+   "att": -0.5370367859,
+   "ci_lo": -3.9653908395,
+   "ci_hi": 2.8323686149,
+   "p": 0.6398720256
+  },
+  {
+   "design": "Four strict bans (MA, NC, VT, IL)",
+   "treated": "MA, NC, VT, IL",
+   "n_treated": 4,
+   "n_controls": 29,
+   "outcome": "log_odds",
+   "label": "Log odds, impaired vs sober (x100)",
+   "att": -1.8879007217,
+   "ci_lo": -17.0003062589,
+   "ci_hi": 12.5092326938,
+   "p": 0.700259948
+  },
+  {
+   "design": "Four strict bans (MA, NC, VT, IL)",
+   "treated": "MA, NC, VT, IL",
+   "n_treated": 4,
+   "n_controls": 29,
+   "outcome": "ai_per_cap",
+   "label": "Impaired deaths per 100k (log x100)",
+   "att": 2.9919143822,
+   "ci_lo": -13.7891018803,
+   "ci_hi": 16.2504882193,
+   "p": 0.9094181164
+  },
+  {
+   "design": "Four strict bans (MA, NC, VT, IL)",
+   "treated": "MA, NC, VT, IL",
+   "n_treated": 4,
+   "n_controls": 29,
+   "outcome": "svn_share",
+   "label": "Single-vehicle-night share (pp)",
+   "att": -1.7333993488,
+   "ci_lo": -4.0446878251,
+   "ci_hi": -0.181834962,
+   "p": 0.0311937612
+  },
+  {
+   "design": "Four strict bans (MA, NC, VT, IL)",
+   "treated": "MA, NC, VT, IL",
+   "n_treated": 4,
+   "n_controls": 29,
+   "outcome": "ddd_net",
+   "label": "Net evening test (x100)",
+   "att": -26.8224434268,
+   "ci_lo": -43.5240254667,
+   "ci_hi": -0.2694007775,
+   "p": 0.0451909618
+  },
+  {
+   "design": "Original seven, clean comparison group",
+   "treated": "MA, KS, IN, NC, VT, IL, RI",
+   "n_treated": 7,
+   "n_controls": 29,
+   "outcome": "ai_share",
+   "label": "Impaired share (pp)",
+   "att": 0.3957855405,
+   "ci_lo": -2.6823280964,
+   "ci_hi": 2.9683947283,
+   "p": 0.975404919
+  },
+  {
+   "design": "Original seven, clean comparison group",
+   "treated": "MA, KS, IN, NC, VT, IL, RI",
+   "n_treated": 7,
+   "n_controls": 29,
+   "outcome": "log_odds",
+   "label": "Log odds, impaired vs sober (x100)",
+   "att": 2.0146913006,
+   "ci_lo": -11.231637982,
+   "ci_hi": 13.0819626052,
+   "p": 0.9370125975
+  },
+  {
+   "design": "Original seven, clean comparison group",
+   "treated": "MA, KS, IN, NC, VT, IL, RI",
+   "n_treated": 7,
+   "n_controls": 29,
+   "outcome": "ai_per_cap",
+   "label": "Impaired deaths per 100k (log x100)",
+   "att": 5.9400386778,
+   "ci_lo": -7.6955669367,
+   "ci_hi": 17.1465704735,
+   "p": 0.4723055389
+  },
+  {
+   "design": "Original seven, clean comparison group",
+   "treated": "MA, KS, IN, NC, VT, IL, RI",
+   "n_treated": 7,
+   "n_controls": 29,
+   "outcome": "svn_share",
+   "label": "Single-vehicle-night share (pp)",
+   "att": -1.9421850715,
+   "ci_lo": -4.0089665694,
+   "ci_hi": -0.5784599159,
+   "p": 0.0063987203
+  },
+  {
+   "design": "Original seven, clean comparison group",
+   "treated": "MA, KS, IN, NC, VT, IL, RI",
+   "n_treated": 7,
+   "n_controls": 29,
+   "outcome": "ddd_net",
+   "label": "Net evening test (x100)",
+   "att": -16.8169598957,
+   "ci_lo": -32.9887362026,
+   "ci_hi": 7.6573840539,
+   "p": 0.2411517696
+  },
+  {
+   "design": "Six bans, Vermont dated 1986",
+   "treated": "MA, KS, IN, NC, VT, IL",
+   "n_treated": 6,
+   "n_controls": 29,
+   "outcome": "ai_share",
+   "label": "Impaired share (pp)",
+   "att": 0.7780547635,
+   "ci_lo": -2.1132261202,
+   "ci_hi": 3.8073207645,
+   "p": 0.5814837033
+  },
+  {
+   "design": "Six bans, Vermont dated 1986",
+   "treated": "MA, KS, IN, NC, VT, IL",
+   "n_treated": 6,
+   "n_controls": 29,
+   "outcome": "log_odds",
+   "label": "Log odds, impaired vs sober (x100)",
+   "att": 3.5371076822,
+   "ci_lo": -8.1584824977,
+   "ci_hi": 16.7018504025,
+   "p": 0.549890022
+  },
+  {
+   "design": "Six bans, Vermont dated 1986",
+   "treated": "MA, KS, IN, NC, VT, IL",
+   "n_treated": 6,
+   "n_controls": 29,
+   "outcome": "ai_per_cap",
+   "label": "Impaired deaths per 100k (log x100)",
+   "att": 5.2386906966,
+   "ci_lo": -9.663692211,
+   "ci_hi": 16.4265737829,
+   "p": 0.701059788
+  },
+  {
+   "design": "Six bans, Vermont dated 1986",
+   "treated": "MA, KS, IN, NC, VT, IL",
+   "n_treated": 6,
+   "n_controls": 29,
+   "outcome": "svn_share",
+   "label": "Single-vehicle-night share (pp)",
+   "att": -0.8190333699,
+   "ci_lo": -2.2845694845,
+   "ci_hi": 0.6466219083,
+   "p": 0.2831433713
+  },
+  {
+   "design": "Six bans, Vermont dated 1986",
+   "treated": "MA, KS, IN, NC, VT, IL",
+   "n_treated": 6,
+   "n_controls": 29,
+   "outcome": "ddd_net",
+   "label": "Net evening test (x100)",
+   "att": -18.3277869736,
+   "ci_lo": -34.5521682976,
+   "ci_hi": 3.3243686321,
+   "p": 0.1043791242
+  },
+  {
+   "design": "Six bans plus Alaska (1983-95)",
+   "treated": "MA, KS, IN, NC, VT, IL, AK",
+   "n_treated": 7,
+   "n_controls": 29,
+   "outcome": "ai_share",
+   "label": "Impaired share (pp)",
+   "att": -0.0771534464,
+   "ci_lo": -2.9407909757,
+   "ci_hi": 2.326659105,
+   "p": 0.8146370726
+  },
+  {
+   "design": "Six bans plus Alaska (1983-95)",
+   "treated": "MA, KS, IN, NC, VT, IL, AK",
+   "n_treated": 7,
+   "n_controls": 29,
+   "outcome": "log_odds",
+   "label": "Log odds, impaired vs sober (x100)",
+   "att": -0.0137886104,
+   "ci_lo": -12.1244538529,
+   "ci_hi": 9.8720882473,
+   "p": 0.8310337932
+  },
+  {
+   "design": "Six bans plus Alaska (1983-95)",
+   "treated": "MA, KS, IN, NC, VT, IL, AK",
+   "n_treated": 7,
+   "n_controls": 29,
+   "outcome": "ai_per_cap",
+   "label": "Impaired deaths per 100k (log x100)",
+   "att": -3.068590179,
+   "ci_lo": -16.0480763309,
+   "ci_hi": 8.2456172413,
+   "p": 0.4867026595
+  },
+  {
+   "design": "Six bans plus Alaska (1983-95)",
+   "treated": "MA, KS, IN, NC, VT, IL, AK",
+   "n_treated": 7,
+   "n_controls": 29,
+   "outcome": "svn_share",
+   "label": "Single-vehicle-night share (pp)",
+   "att": -0.7650685659,
+   "ci_lo": -2.7560576604,
+   "ci_hi": 0.6680988617,
+   "p": 0.2707458508
+  },
+  {
+   "design": "Six bans plus Alaska (1983-95)",
+   "treated": "MA, KS, IN, NC, VT, IL, AK",
+   "n_treated": 7,
+   "n_controls": 29,
+   "outcome": "ddd_net",
+   "label": "Net evening test (x100)",
+   "att": -16.1351885943,
+   "ci_lo": -32.3575983568,
+   "ci_hi": 8.3179488822,
+   "p": 0.2527494501
+  },
+  {
+   "design": "Nine partial restrictions",
+   "treated": "PA, CT, VA, ME, TX, WA, MI, OH, RI",
+   "n_treated": 9,
+   "n_controls": 29,
+   "outcome": "ai_share",
+   "label": "Impaired share (pp)",
+   "att": -3.0107745931,
+   "ci_lo": -5.9223968989,
+   "ci_hi": -0.6385767844,
+   "p": 0.0163967207
+  },
+  {
+   "design": "Nine partial restrictions",
+   "treated": "PA, CT, VA, ME, TX, WA, MI, OH, RI",
+   "n_treated": 9,
+   "n_controls": 29,
+   "outcome": "log_odds",
+   "label": "Log odds, impaired vs sober (x100)",
+   "att": -11.9920809197,
+   "ci_lo": -23.9053171356,
+   "ci_hi": -2.1694105635,
+   "p": 0.0235952809
+  },
+  {
+   "design": "Nine partial restrictions",
+   "treated": "PA, CT, VA, ME, TX, WA, MI, OH, RI",
+   "n_treated": 9,
+   "n_controls": 29,
+   "outcome": "ai_per_cap",
+   "label": "Impaired deaths per 100k (log x100)",
+   "att": -5.6554448766,
+   "ci_lo": -18.4455198529,
+   "ci_hi": 3.2918931555,
+   "p": 0.1551689662
+  },
+  {
+   "design": "Nine partial restrictions",
+   "treated": "PA, CT, VA, ME, TX, WA, MI, OH, RI",
+   "n_treated": 9,
+   "n_controls": 29,
+   "outcome": "svn_share",
+   "label": "Single-vehicle-night share (pp)",
+   "att": -2.6612146559,
+   "ci_lo": -4.2274057449,
+   "ci_hi": -1.5830271472,
+   "p": 0.00039992
+  },
+  {
+   "design": "Nine partial restrictions",
+   "treated": "PA, CT, VA, ME, TX, WA, MI, OH, RI",
+   "n_treated": 9,
+   "n_controls": 29,
+   "outcome": "ddd_net",
+   "label": "Net evening test (x100)",
+   "att": 1.4872932693,
+   "ci_lo": -13.6524225907,
+   "ci_hi": 21.6437828309,
+   "p": 0.6974605079
+  }
+ ],
+ "pooled": [
+  {
+   "outcome": "log_odds",
+   "changes": "3 repeals + 6 bans",
+   "att": 4.8008495315,
+   "ci_lo": -6.772724998,
+   "ci_hi": 14.4995918045,
+   "p": 0.5034993001
+  },
+  {
+   "outcome": "log_odds",
+   "changes": "3 repeals + 4 strict bans",
+   "att": 2.054133368,
+   "ci_lo": -11.4238961207,
+   "ci_hi": 12.2448682614,
+   "p": 0.9646070786
+  },
+  {
+   "outcome": "ai_share",
+   "changes": "3 repeals + 6 bans",
+   "att": 0.9835994883,
+   "ci_lo": -1.5002679559,
+   "ci_hi": 3.3147086454,
+   "p": 0.5378924215
+  },
+  {
+   "outcome": "ai_share",
+   "changes": "3 repeals + 4 strict bans",
+   "att": 0.2885935167,
+   "ci_lo": -2.5579220223,
+   "ci_hi": 2.658485078,
+   "p": 0.9374125175
+  }
+ ],
+ "checks": [
+  {
+   "area": "data (1980s law file)",
+   "check": "requested columns present; every jurisdiction covered; every row marked primary or secondary",
+   "result": "58 rows; 51 jurisdictions; missing columns none; source_type {'secondary': 36, 'primary': 22}",
+   "status": "PASS"
+  },
+  {
+   "area": "data (1980s law file)",
+   "check": "adoption years agree with the independent sources found earlier",
+   "result": "MA: file 1984 vs Dec 1984 (Patch: Dec 10, 1984); KS: file 1985 vs 1985 (Kansas liquor-law timeline); IN: file 1985 vs 1985 (NWI Times); NC: file 1985-08-01 vs 1985; RI: file 1985 vs 1985 (Rhode Island Monthly); IL: file 1989 vs 1989 (26-year ban ended 2015); AK: file 1986 vs 1986 (Money: on the books since 1986); UT: file 'none found' before 1996, consistent with a 2011 ban",
+   "status": "PASS"
+  },
+  {
+   "area": "data (1980s law file)",
+   "check": "strict/partial labels applied consistently",
+   "result": "Indiana (time-of-day price cuts banned, all-day specials allowed) is labelled partial while North Carolina, under the same standard, is labelled strict; Kansas's 1985 law covered every on-premise licensee then existing (clubs and 3.2% beer bars). Recoded here: KS and IN as bans; RI ambiguous",
+   "status": "FLAG"
+  },
+  {
+   "area": "data (1980s law file)",
+   "check": "remaining gaps",
+   "result": "no effective date: ['VT', 'NE']; year-only dates: ['MA', 'KS', 'IN', 'RI', 'IL', 'TX', 'AK', 'VA', 'GA']; secondary-only restriction rows: ['VT', 'NE', 'TX', 'PA', 'CT', 'CT', 'VA', 'GA']",
+   "status": "FLAG"
+  }
+ ],
+ "clean": [
+  "AL",
+  "AR",
+  "AZ",
+  "CA",
+  "CO",
+  "DC",
+  "DE",
+  "FL",
+  "IA",
+  "ID",
+  "KY",
+  "LA",
+  "MD",
+  "MN",
+  "MO",
+  "MS",
+  "MT",
+  "ND",
+  "NH",
+  "NM",
+  "NV",
+  "NY",
+  "OR",
+  "SC",
+  "SD",
+  "TN",
+  "UT",
+  "WI",
+  "WV",
+  "WY"
+ ],
+ "n_clean_aer": 29,
+ "followup": {
+  "ai_share": {
+   "main": {
+    "att": -3.010774593107225,
+    "ci_lo": -5.77640301698452,
+    "ci_hi": -0.7186613673302658,
+    "p": 0.01279744051189762
+   },
+   "without Maine and Ohio": {
+    "att": -1.3573326523664464,
+    "ci_lo": -4.182732657344677,
+    "ci_hi": 1.629692779288113,
+    "p": 0.3023395320935813
+   },
+   "Maine and Ohio post-periods cut before their confounding laws": {
+    "att": -2.4196207258545375,
+    "ci_lo": -5.3314064410837965,
+    "ci_hi": -0.04763882695241403,
+    "p": 0.047590481903619274
+   },
+   "Ohio dated 1984 (unverified 9/20/84 filing)": {
+    "att": -2.0859857463490212,
+    "ci_lo": -4.960711267924088,
+    "ci_hi": 0.32981995010934567,
+    "p": 0.07598480303939212
+   }
+  },
+  "log_odds": {
+   "main": {
+    "att": -11.992080919665138,
+    "ci_lo": -24.312216600802028,
+    "ci_hi": -2.1195783189023527,
+    "p": 0.01839632073585283
+   },
+   "without Maine and Ohio": {
+    "att": -4.833087263227057,
+    "ci_lo": -16.86391862280086,
+    "ci_hi": 8.23608969401296,
+    "p": 0.4003199360127974
+   },
+   "Maine and Ohio post-periods cut before their confounding laws": {
+    "att": -9.328415758380949,
+    "ci_lo": -21.01112704716934,
+    "ci_hi": 0.556747281705211,
+    "p": 0.0611877624475105
+   },
+   "Ohio dated 1984 (unverified 9/20/84 filing)": {
+    "att": -8.05475521253476,
+    "ci_lo": -19.74664141995613,
+    "ci_hi": 2.1709930430669906,
+    "p": 0.10357928414317137
+   }
+  },
+  "maine_08_first_year_cohen_einav": 1988
+ },
+ "partial_checks": {
+  "ai_share": {
+   "main": {
+    "att": -3.010774593107225,
+    "ci_lo": -5.863846282708871,
+    "ci_hi": -0.7348979201261704,
+    "p": 0.013597280543891222
+   },
+   "by_state": {
+    "PA": 2.0767090119160003,
+    "CT": -4.081121088055275,
+    "VA": -0.7260748998965911,
+    "ME": -9.708105823300494,
+    "TX": -1.722697225349894,
+    "WA": -0.736676157561994,
+    "MI": -2.9185418514228454,
+    "OH": -7.28121263489406,
+    "RI": -1.999250669399873
+   },
+   "+ traffic-safety controls and unemployment (1983-95; WA, MI lack pre-years)": {
+    "att": -2.790650102017323,
+    "ci_lo": -5.9500924783897995,
+    "ci_hi": -0.5518494260132474,
+    "p": 0.021995600879824034
+   },
+   "without WA and MI (1984 starts)": {
+    "att": -3.348909745396087,
+    "ci_lo": -6.60523534600869,
+    "ci_hi": -1.3434912602020332,
+    "p": 0.003199360127974405
+   },
+   "without OH (date conflict)": {
+    "att": -2.412583577171798,
+    "ci_lo": -5.42521774069092,
+    "ci_hi": 0.21628090010100479,
+    "p": 0.0683863227354529
+   },
+   "without RI (ambiguous)": {
+    "att": -3.147637429022998,
+    "ci_lo": -5.807790072587774,
+    "ci_hi": -0.5011192269342761,
+    "p": 0.01879624075184963
+   },
+   "only the 1985-86 adopters (PA, CT, VA, ME, TX, RI)": {
+    "att": -2.6367495472048326,
+    "ci_lo": -6.054124238278849,
+    "ci_hi": -0.3711352940520607,
+    "p": 0.02399520095980804
+   }
+  },
+  "log_odds": {
+   "main": {
+    "att": -11.992080919665138,
+    "ci_lo": -24.061327514718172,
+    "ci_hi": -1.951821215277004,
+    "p": 0.021995600879824034
+   },
+   "by_state": {
+    "PA": 9.283135139272751,
+    "CT": -15.976700176161614,
+    "VA": -2.4886254961896124,
+    "ME": -41.21123359220402,
+    "TX": -6.474318643601912,
+    "WA": -2.1124822685237357,
+    "MI": -11.104077345728443,
+    "OH": -30.324968650981454,
+    "RI": -7.519457242868209
+   },
+   "+ traffic-safety controls and unemployment (1983-95; WA, MI lack pre-years)": {
+    "att": -10.455911821037365,
+    "ci_lo": -23.658057039921058,
+    "ci_hi": -1.1162550934591509,
+    "p": 0.030393921215756847
+   },
+   "without WA and MI (1984 starts)": {
+    "att": -13.530660216186636,
+    "ci_lo": -27.199030662129736,
+    "ci_hi": -5.334553026359496,
+    "p": 0.003199360127974405
+   },
+   "without OH (date conflict)": {
+    "att": -9.425195122425336,
+    "ci_lo": -22.19458618702094,
+    "ci_hi": 2.0636546040767407,
+    "p": 0.08598280343931214
+   },
+   "without RI (ambiguous)": {
+    "att": -12.5929889458486,
+    "ci_lo": -23.350116026490536,
+    "ci_hi": -0.9800457821806232,
+    "p": 0.036392721455708855
+   },
+   "only the 1985-86 adopters (PA, CT, VA, ME, TX, RI)": {
+    "att": -10.488899323130099,
+    "ci_lo": -24.976330921554585,
+    "ci_hi": -0.9299694100139824,
+    "p": 0.03239352129574085
+   }
+  }
+ }
+}

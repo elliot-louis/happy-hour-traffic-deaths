@@ -1,0 +1,51 @@
+design,family,att,ci_lo,ci_hi
+modern_repeals,Main,-1.389,-5.022,3.003
+adoption_1980s,Main,0.781,-2.079,3.753
+modern_repeals,Robustness checks,-1.147,-4.516,3.062
+modern_repeals,Robustness checks,-0.81,-4.387,4.534
+modern_repeals,Robustness checks,-1.0,-4.976,3.524
+modern_repeals,Robustness checks,-1.056,-5.348,5.106
+modern_repeals,Robustness checks,-1.932,-5.624,2.661
+modern_repeals,Robustness checks,-2.096,-7.161,2.521
+adoption_1980s,Robustness checks,1.229,-1.717,4.517
+adoption_1980s,Robustness checks,0.68,-2.201,3.623
+adoption_1980s,Robustness checks,0.157,-2.674,3.487
+adoption_1980s,Traffic-safety controls,0.516,-2.206,3.294
+adoption_1980s,Traffic-safety controls,0.791,-2.003,4.017
+adoption_1980s,Traffic-safety controls,0.791,-1.969,3.937
+modern_repeals,Vehicle-miles controls,-1.299,-4.96,3.232
+adoption_1980s,Vehicle-miles controls,0.753,-2.215,3.904
+modern_repeals,Synthetic DiD,-0.137,-4.146,3.551
+modern_repeals,Unemployment and population,-1.401,-5.033,3.001
+modern_repeals,Unemployment and population,-1.319,-5.085,3.246
+adoption_1980s,Unemployment and population,0.666,-2.334,3.651
+adoption_1980s,Unemployment and population,0.89,-2.092,4.027
+modern_repeals,Unemployment and population,-0.605,-4.775,5.595
+adoption_1980s,Unemployment and population,0.103,-2.795,3.624
+adoption_1980s,Alternative 1980s coding,-0.537,-3.965,2.832
+adoption_1980s,Alternative 1980s coding,0.396,-2.682,2.968
+adoption_1980s,Alternative 1980s coding,0.778,-2.113,3.807
+adoption_1980s,Alternative 1980s coding,-0.077,-2.941,2.327
+adoption_1980s,Date shifted +/-1 year,1.032,-2.108,4.19
+adoption_1980s,Date shifted +/-1 year,0.816,-2.109,3.736
+adoption_1980s,Date shifted +/-1 year,0.675,-2.325,3.729
+adoption_1980s,Date shifted +/-1 year,0.668,-2.123,3.496
+adoption_1980s,Date shifted +/-1 year,0.751,-2.135,3.845
+adoption_1980s,Date shifted +/-1 year,0.81,-2.227,3.815
+adoption_1980s,Date shifted +/-1 year,0.589,-2.215,3.798
+adoption_1980s,Date shifted +/-1 year,1.07,-1.997,3.977
+adoption_1980s,Date shifted +/-1 year,0.533,-2.421,3.68
+adoption_1980s,Date shifted +/-1 year,0.778,-2.009,3.769
+adoption_1980s,Date shifted +/-1 year,0.81,-2.136,3.869
+adoption_1980s,Date shifted +/-1 year,0.785,-2.128,3.743
+modern_repeals,Neighbors dropped,-1.392,-5.361,3.275
+modern_repeals,Jackknife,-0.172,-4.744,5.734
+modern_repeals,Jackknife,-2.096,-7.064,2.521
+modern_repeals,Jackknife,-1.933,-5.746,3.362
+adoption_1980s,Neighbors dropped,0.173,-2.308,3.615
+adoption_1980s,Jackknife,1.391,-2.026,4.489
+adoption_1980s,Jackknife,0.041,-3.028,3.329
+adoption_1980s,Jackknife,0.466,-2.864,3.542
+adoption_1980s,Jackknife,1.423,-1.894,4.566
+adoption_1980s,Jackknife,0.541,-2.253,4.018
+adoption_1980s,Jackknife,0.792,-2.361,4.283

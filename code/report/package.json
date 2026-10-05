@@ -1,0 +1,6 @@
+{
+  "name": "happy-hour-report",
+  "private": true,
+  "description": "Builds paper/happy_hour_report.docx from the result tables",
+  "dependencies": { "docx": "^9.0.0" }
+}

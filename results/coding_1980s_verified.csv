@@ -1,0 +1,47 @@
+state,used_as,first_full_year,transition_year
+MA,ban,1985.0,
+KS,ban,1986.0,1985.0
+IN,ban,1986.0,1985.0
+NC,ban,1986.0,1985.0
+VT,ban,1986.0,1985.0
+IL,ban,1990.0,1989.0
+AK,ban (1983-95 variant),1987.0,1986.0
+PA,partial restriction,1986.0,
+CT,partial restriction,1986.0,
+VA,partial restriction,1986.0,1985.0
+ME,partial restriction,1986.0,1985.0
+TX,partial restriction,1986.0,1985.0
+WA,partial restriction,1984.0,
+MI,partial restriction,1984.0,1983.0
+OH,partial restriction,1989.0,1988.0
+RI,partial restriction,1986.0,1985.0
+AL,comparison,,
+AR,comparison,,
+AZ,comparison,,
+CA,comparison,,
+CO,comparison,,
+DC,comparison,,
+DE,comparison,,
+FL,comparison,,
+IA,comparison,,
+ID,comparison,,
+KY,comparison,,
+LA,comparison,,
+MD,comparison,,
+MN,comparison,,
+MO,comparison,,
+MS,comparison,,
+MT,comparison,,
+ND,comparison,,
+NH,comparison,,
+NM,comparison,,
+NV,comparison,,
+NY,comparison,,
+OR,comparison,,
+SC,comparison,,
+SD,comparison,,
+TN,comparison,,
+UT,comparison,,
+WI,comparison,,
+WV,comparison,,
+WY,comparison,,

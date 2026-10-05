@@ -1,0 +1,5 @@
+label,unit,post_months,att_pp,ci_lo_pp,ci_hi_pp,p,mde80_pp,placebos,baseline_share_pct,monthly_deaths
+"Indiana, Jul-Dec 2024 (state x month seasonality)",IN,6,1.981,-4.735,7.062,0.514,9.26,34,26.613,74.621
+"Indiana, Jul-Dec 2024 (common seasonality only)",IN,6,2.275,-4.466,6.408,0.457,8.538,34,26.613,74.621
+"Oklahoma, Oct 2018-Sep 2024 (monthly, includes late 2018)",OK,72,1.23,-3.282,5.536,0.647,7.125,33,24.532,55.97
+"Oklahoma, Oct 2018-Sep 2024 (state x month seasonality)",OK,72,1.049,-3.508,5.216,0.706,7.132,33,24.532,55.97

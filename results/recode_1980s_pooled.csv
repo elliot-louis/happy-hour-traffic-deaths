@@ -1,0 +1,5 @@
+outcome,changes,att,ci_lo,ci_hi,p
+log_odds,3 repeals + 6 bans,4.801,-6.773,14.5,0.503
+log_odds,3 repeals + 4 strict bans,2.054,-11.424,12.245,0.965
+ai_share,3 repeals + 6 bans,0.984,-1.5,3.315,0.538
+ai_share,3 repeals + 4 strict bans,0.289,-2.558,2.658,0.937
